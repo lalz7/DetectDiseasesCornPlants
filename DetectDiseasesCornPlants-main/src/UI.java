@@ -1,8 +1,6 @@
 import java.util.*;
 
-
 public class UI {
-    
     private ArrayList<String> questions;
     private int answers[];
     
